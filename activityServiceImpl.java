@@ -58,6 +58,7 @@ public class ActivityServlet extends HttpServlet {
         }
     }
 
+	add func3
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         String path = req.getServletPath();
